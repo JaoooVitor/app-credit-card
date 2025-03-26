@@ -45,11 +45,10 @@ Desenvolver uma interface moderna para exibição e preenchimento de dados de um
 
 ## 📱 Interface do Projeto
 
-```bash
-<img src="screenshots/print1.jpg" width="350"> <img src="screenshots/print2.jpg" width="350">
-```
 
----
+<img src="screenshots/print1.jpg" width="350"> <img src="screenshots/print2.jpg" width="350">
+
+
 
 ## 📌 Expectativa do Projeto
 
