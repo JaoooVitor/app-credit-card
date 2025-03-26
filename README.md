@@ -13,11 +13,10 @@ Desenvolver uma interface moderna para exibição e preenchimento de dados de um
 ## 🚀 Recursos Implementados
 
 ```bash
-✔ Formatação automática para o número do cartão (1234 5678 9012 3456)
+✔ Formatação automática do cartão (**** **** **** ****)
 ✔ Campo para data de validade (MM/AA)
 ✔ Validação do CVV com limite de 3 dígitos
 ✔ Restrição de entrada para o nome do titular (apenas letras)
-✔ Identificação de bandeiras dos cartões conforme os primeiros dígitos
 ✔ Interface inspirada em cartões reais, usando design responsivo
 ```
 
@@ -26,9 +25,9 @@ Desenvolver uma interface moderna para exibição e preenchimento de dados de um
 ## 🔍 Validações Aplicadas
 
 ```bash
-🔹 O campo número do cartão permite apenas 16 dígitos numéricos e adiciona espaçamentos automaticamente.
+🔹 O campo número do cartão permite apenas 16 dígitos numéricos e adiciona espaçamentos automaticamente após 4 digitos.
 🔹 O nome do titular aceita apenas letras e espaços.
-🔹 A data de validade segue o formato MM/AA e impede datas inválidas.
+🔹 A data de validade segue o formato MM/AA.
 ```
 
 ---
