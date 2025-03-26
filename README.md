@@ -1,0 +1,70 @@
+# 💳 Projeto Android: Layout de Cartão de Crédito
+
+Este projeto faz parte da disciplina **Desenvolvimento para Dispositivos Móveis** no curso de **Análise e Desenvolvimento de Sistemas (6º Período - IFTM)**.
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver uma interface moderna para exibição e preenchimento de dados de um cartão de crédito, com foco em **experiência do usuário** e **validações automáticas**.
+
+---
+
+## 🚀 Recursos Implementados
+
+```bash
+✔ Formatação automática para o número do cartão (1234 5678 9012 3456)
+✔ Campo para data de validade (MM/AA)
+✔ Validação do CVV com limite de 3 dígitos
+✔ Restrição de entrada para o nome do titular (apenas letras)
+✔ Identificação de bandeiras dos cartões conforme os primeiros dígitos
+✔ Interface inspirada em cartões reais, usando design responsivo
+```
+
+---
+
+## 🔍 Validações Aplicadas
+
+```bash
+🔹 O campo número do cartão permite apenas 16 dígitos numéricos e adiciona espaçamentos automaticamente.
+🔹 O nome do titular aceita apenas letras e espaços.
+🔹 A data de validade segue o formato MM/AA e impede datas inválidas.
+```
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+```bash
+🔧 Kotlin
+🔧 Android Studio
+🔧 ConstraintLayout para responsividade
+🔧 TextWatcher para manipulação da entrada do usuário
+```
+
+---
+
+## 📱 Interface do Projeto
+
+```bash
+📌 Capturas de tela disponíveis na pasta screenshots:
+  - screenshots/print1.jpg
+  - screenshots/print2.jpg
+```
+
+---
+
+## 📌 Expectativa do Projeto
+
+```bash
+🎯 Criar uma interface intuitiva e eficiente para preenchimento de dados de cartões.
+🎯 Aplicar boas práticas de UX/UI.
+🎯 Garantir uma experiência fluida com formatação dinâmica.
+```
+
+---
+
+> **IFTM - Instituto Federal do Triângulo Mineiro**  
+> Disciplina: Desenvolvimento para Dispositivos Móveis  
+> 6º Período de ADS – 2025
+
