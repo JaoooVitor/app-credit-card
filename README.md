@@ -46,9 +46,7 @@ Desenvolver uma interface moderna para exibição e preenchimento de dados de um
 ## 📱 Interface do Projeto
 
 ```bash
-📌 Capturas de tela disponíveis na pasta screenshots:
-  - screenshots/print1.jpg
-  - screenshots/print2.jpg
+<img src="screenshots/print2.PNG" width="350"> <img src="screenshots/print1.PNG" width="350">
 ```
 
 ---
